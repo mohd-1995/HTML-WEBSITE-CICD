@@ -44,8 +44,4 @@ Configuring the GitHub Actions workflow required thoughtful planning. I set up t
 
 ## Terraform
 
-[Click Here for Terraform Documentation & Repository ](https://github.com/AbdulahiN/portfolio-terraform-infrastructure)
-
-## AWS Infrastructure Diagram
-
-![image](https://github.com/AbdulahiN/Portfolio-Website-/assets/127696330/78b4e7dd-095c-4908-a98f-9627dfe67c25)
+[Click Here for Terraform Documentation & Repository ](https://github.com/mohd-1995/Portfolio-TF-Infrastructure)
